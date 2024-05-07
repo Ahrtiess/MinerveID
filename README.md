@@ -14,15 +14,15 @@ Ce script Python vous permet de rechercher et d'afficher des informations sur le
 3. Exécutez le script en utilisant la commande suivante : python main.py
 4. Saisissez l'identifiant de l'utilisateur Discord que vous souhaitez rechercher.
    
-##Auteur
+## Auteur
 
 Ce script a été créé par ahrtiess.
 
-##Contribution
+## Contribution
 
 Les contributions sont les bienvenues ! N'hésitez pas à ouvrir une issue pour signaler un bogue ou à proposer une demande d'extraction avec des améliorations.
 
-##Licence
+## Licence
 
 Ce projet est sous Eclipse Public License 2.0 
 
