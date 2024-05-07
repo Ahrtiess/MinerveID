@@ -1,6 +1,6 @@
 # MinerveID
 
-Ce script Python vous permet de rechercher et d'afficher des informations sur les utilisateurs Discord
+Ce script Python vous permet de rechercher et d'afficher des informations sur les utilisateurs Discord.
 
 ## Fonctionnalités
 
