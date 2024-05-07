@@ -5,8 +5,8 @@ Ce script Python vous permet de rechercher et d'afficher des informations sur le
 ## Fonctionnalités
 
 - Recherche d'informations sur un utilisateur Discord à l'aide de son identifiant.
-- Affichage des informations telles que le nom d'utilisateur, le nom d'affichage, la photo de profil, le statut Nitro, et la date de création du compte.
-- 
+- Affichage des informations telles que le nom d'utilisateur, le nom d'affichage, la photo de profil, le statut nitro, et la date de création du compte.
+  
 ## Configuration et Utilisation
 
 1. Assurez-vous d'avoir Python installé sur votre système.
