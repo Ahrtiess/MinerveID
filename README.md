@@ -24,6 +24,6 @@ Les contributions sont les bienvenues ! N'hésitez pas à ouvrir une issue pour 
 
 ##Licence
 
-Ce projet est sous licence Eclipse 2.0
+Ce projet est sous Eclipse Public License 2.0 
 
 
